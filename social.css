@@ -394,11 +394,10 @@ main{
         text-align: center;
         }
     .rating{
-            padding-top: 2rem;
+            padding: 20px 5px 10px 5px;
             height:100%;
             align-items:center;
             align-items: center;
-            padding:5px;
         }
     .ct{    
            flex-direction: column;
