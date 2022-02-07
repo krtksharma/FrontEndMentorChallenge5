@@ -161,7 +161,7 @@ main{
     margin-left:1.25rem;
     transform: translateY(3.75rem)
 }
-@media (min-width:1200 ) and (max-width:1450px){
+@media (min-width:1400px) and (max-width:1450px){
     body{
         background-position-y: 8rem;
         background-position-x: 22rem;
